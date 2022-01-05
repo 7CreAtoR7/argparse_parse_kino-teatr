@@ -1,0 +1,5 @@
+beautifulsoup4==4.10.0
+fake-useragent==0.1.11
+lxml==4.7.1
+requests==2.21.0
+pymorphy2==0.9.1
